@@ -1,0 +1,2 @@
+# EasyRPG_Player_Mode7_PixelMovement_Wireframe3D_DynRPG_Particle_RPGSSemulation
+Additional features for EasyRPG 0.8.1
